@@ -1,0 +1,3 @@
+wrold
+while
+for
